@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TopLeft">
+        <item name="cornerSizeTopLeft">50%</item>
+    </style>
+    <style name="TopRight">
+        <item name="cornerSizeTopRight">50%</item>
+    </style>
+    <style name="BottomLeft">
+        <item name="cornerSizeBottomLeft">50%</item>
+    </style>
+    <style name="BottomRight">
+        <item name="cornerSizeBottomRight">50%</item>
+    </style>
+</resources>
